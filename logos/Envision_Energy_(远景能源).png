@@ -1,0 +1,5 @@
+<!doctype html><html><head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,shrink-to-fit=no"/><link rel="icon" type="image/png" href="/favicon.ico"/><title>Envision</title><script>// enable to override webpacks publicPath
+      // var webpackPublicPath = '/';</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-6MG67YLQ8G"></script><script>window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-6MG67YLQ8G');</script><link href="/version/1765794460528/css/vendors.css" rel="stylesheet"><link href="/version/1765794460528/css/app.css" rel="stylesheet"></head><body><div id="app"></div><script src="/version/1765794460528/js/vendors.js"></script><script src="/version/1765794460528/js/app.js"></script></body></html>
